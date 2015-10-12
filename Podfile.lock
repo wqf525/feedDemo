@@ -1,0 +1,53 @@
+PODS:
+  - AQGridView (1.3)
+  - AVOSCloud (3.1.4)
+  - DACircularProgress (2.3.1)
+  - DateTools (1.7.0)
+  - HPGrowingTextView (1.1)
+  - JSBadgeView (1.4.1)
+  - MBProgressHUD (0.9.1)
+  - MJExtension (2.5.12)
+  - MJPhotoBrowser (1.0.2):
+    - SDWebImage
+    - SVProgressHUD
+    - YLGIFImage
+  - MJRefresh (2.4.12)
+  - MWPhotoBrowser (2.1.1):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SVProgressHUD (1.1.3)
+  - YLGIFImage (0.11)
+
+DEPENDENCIES:
+  - AQGridView
+  - AVOSCloud
+  - DateTools
+  - HPGrowingTextView
+  - JSBadgeView
+  - MJExtension
+  - MJPhotoBrowser
+  - MJRefresh
+  - MWPhotoBrowser
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AQGridView: 66d04aaa0b3179a9e9827c9e49ab4ffb276511c3
+  AVOSCloud: 2be1640178facaac8343d67ed4d5348f4dffecd7
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  JSBadgeView: 3861ddee41094284d9468e6d0af5107f703aaac5
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: 5ab633484e431f777387c70b676c80f993361f1b
+  MJPhotoBrowser: f55e8490231f44a78ca6455105a1c798a142c95f
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  MWPhotoBrowser: ba0d0c09ffda3a7ea10093518738c502c1c7141c
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
+
+COCOAPODS: 0.39.0.beta.4
